@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "6d3b2638b430d1a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "69928a20f5c1db39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89f22ca5f7d43187",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Daily Note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c148680d2f0a75d",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "50dccbae20e8ad71",
+    "type": "split",
+    "children": [
+      {
+        "id": "694d920dc6849e31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35a3669711f324c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cb8d9ee07b49ef4a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "33e3d299f0b19682",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4144e6304a4f8957",
+    "type": "split",
+    "children": [
+      {
+        "id": "134ae16d8dc44dec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78990c116cd6308e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kanban.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c233d1cddc1d6a23",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Kanban.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "33168cb1cd84e81c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ada192045e110079",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Kanban.md"
+              }
+            }
+          },
+          {
+            "id": "a8636bfdd33b4e03",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "aa4f4441ee5c929b",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 578.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-day-planner:Timeline": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "0c148680d2f0a75d",
+  "lastOpenFiles": [
+    "Templates/Daily Note.md",
+    "Templates/Meeting Note.md",
+    "Kanban.md",
+    "Notes/Daily/2024/08/2024-08-12.md",
+    "Notes/Daily/2024/08",
+    "Notes/Daily/2024",
+    "Notes/Daily/2024-08-12.md",
+    "Notes/Meetings/2024-08-12 - test - test.md",
+    "2024-08-12 - build tooling - scott h + val.md",
+    "2024-08-12 - NBU - Val.md",
+    "fd.md",
+    "fdisajopfd.md",
+    "Notes/Meetings/2024-08-12 - val - nbu.md",
+    "Notes/Meetings/2024-08-12 - {about} - {attendees}.md",
+    "Notes/Meetings/2024-08-12 - Meeting.md",
+    "Templates/Meetings Template.md",
+    "Notes/Meetings/2024-08-12.md",
+    "Untitled 1.md",
+    "Notes/Daily/2024-08-12 - Daily.md",
+    "Notes/Meetings/2024-08-12 Meeting.md",
+    "Notes/Meetings/Untitled 1.md",
+    "Notes/Meetings/Untitled",
+    "Untitled 3.md",
+    "Untitled 4.md",
+    "Untitled 2.md",
+    "Notes/Meetings",
+    "Templates/{{date}} Note.md",
+    "Welcome.md",
+    "Notes/Daily",
+    "Templates",
+    "Projects",
+    "Notes"
+  ]
+}
